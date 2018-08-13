@@ -2,7 +2,7 @@
 
 You can see also view as a [PDF](https://raw.githubusercontent.com/lrt98802/Awesome-CV/master/examples/Ruitian_Lin_Resume.pdf)
 
-| [![Résumé](https://raw.githubusercontent.com/lrt98802/Awesome-CV/master/examples/Ruitian_Lin_Resume.png)](https://raw.githubusercontent.com/lrt98802/Awesome-CV/master/examples/Ruitian_Lin_Resume.pdf)  |
+[![Résumé](https://raw.githubusercontent.com/lrt98802/Awesome-CV/master/examples/Ruitian_Lin_Resume.png)](https://raw.githubusercontent.com/lrt98802/Awesome-CV/master/examples/Ruitian_Lin_Resume.pdf)
 
 
 ## Credit
