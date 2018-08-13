@@ -1,10 +1,8 @@
 ## My Resume
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+You can see also view as a [PDF](https://raw.githubusercontent.com/lrt98802/Awesome-CV/master/examples/Ruitian_Lin_Resume.pdf)
 
-| Page. 1 | 
-|:---:|
-| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  |
+| [![Résumé](https://raw.githubusercontent.com/lrt98802/Awesome-CV/master/examples/Ruitian_Lin_Resume.png)](https://raw.githubusercontent.com/lrt98802/Awesome-CV/master/examples/Ruitian_Lin_Resume.pdf)  |
 
 
 ## Credit
